@@ -5,4 +5,4 @@ To do this we synthetically deform images using FE-generated strain fields (base
 
 The only required commercial resource is MatLab. An open source linear FEA code has been implmented and works with open source DIC codes including Ncorr (a free MatLab DIC code). Other options include use of Abaqus for FEA and VIC-2D for the DIC. 
 
-A tutorial on how to use the codes is included in the reporsitory and a case study demonstrating the use of the codes is found in the final year project report by Alifah Mohd Faridz also included in the reporsitory.
+Supporting documents in the repository include: (a) published paper by Alsayednoor et al. demonstrating the use of the early versions of the software, (b) a tutorial on how to use the most recent version of the codes and (c) a case study demonstrating the use of the codes is found in the final year project report by Alifah Mohd Faridz also included in the reporsitory.

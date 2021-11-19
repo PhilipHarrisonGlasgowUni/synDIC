@@ -10,3 +10,5 @@ Supporting documents in the repository include:
 (b) another published paper demonstrating use of the codes by Nwanoro et al: Nwanoro, K., Harrison, P. and Lennard, F. (2021) Investigating the accuracy of digital image correlation in monitoring strain fields across historical tapestries. Strain, (doi: 10.1111/str.12401) 
 (c) a tutorial on how to use the most recent version of the synDIC codes and 
 (d) a case study demonstrating the use of the codes (a final year project report by Alifah Mohd Faridz).
+
+To reference these codes please use: https://zenodo.org/badge/latestdoi/384483184

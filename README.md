@@ -1,5 +1,5 @@
 # synDIC
-The idea behind the synDIC codes is to evaluate the viability of tracking displacements using any image (rather than a speckle-pattern) using DIC. The original motivation behind the development of synDIC was to monitor the strains occurring in historic tapestries (due to self-weight and changes in humidity) as part of a Leverhulme Trust funded project collaborating with Prof Frances Lennard: https://www.gla.ac.uk/schools/cca/research/arthistoryresearch/projectsandnetworks/fromthegoldenagetothedigitalage/
+The idea behind the synDIC codes is to evaluate the viability of tracking displacements using any image (rather than a speckle-pattern) using DIC. The original motivation behind the development of synDIC was to monitor the strains occurring in historic tapestries (due to self-weight and changes in humidity) as part of a Leverhulme Trust funded project collaborating with Prof Frances Lennard: https://www.gla.ac.uk/schools/cca/research/arthistoryresearch/projectsandnetworks/tapestrymodellingandmonitoring/
 
 To do this we synthetically deform images using FE-generated heterogeneous strain fields (the heterogeneity is based on the images-features), then use these deformed-images to assess the accuracy of DIC measurements in tracking displacements and strains, by comparing the latter with the FEA predicted displacements and strains.
 
